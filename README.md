@@ -1,7 +1,9 @@
 ### Welcome
 
-Welcome to my public page. I am most likely interested in new technologies.
+Welcome to my public page. I am a software engineer based in zurich. 
+I am most interested in new technologies.
 Also find my on [stackoverflow](https://stackoverflow.com/users/1892523/link).
+
 
 <!--
 **linkdotnet/linkdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
