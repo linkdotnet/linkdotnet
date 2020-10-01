@@ -2,7 +2,7 @@
 
 Welcome to my public page. I am a software engineer based in zurich. 
 I am most interested in new technologies.
-Also find my on [stackoverflow](https://stackoverflow.com/users/1892523/link).
+Also find me on [stackoverflow](https://stackoverflow.com/users/1892523/link).
 
 
 <!--
