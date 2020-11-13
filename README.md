@@ -1,21 +1,16 @@
-### Welcome
+# [![Header](assets/piano.jpg)](https://github.com/user/linkdotnet)
+<h1>Welcome - LinkDotNet</h1>
 
-Welcome to my public page. I am a software engineer based in zurich. 
-I am most interested in new technologies.
-Also find me on [stackoverflow](https://stackoverflow.com/users/1892523/link).
+Hey lot, my name is Steven and I am a .NET developer based in Zurich.
+Welcome to my public page. I am most likely interested in new technologies.
 
+# Contact
+You can find me here:
+ * [![SO](assets/logo-stackoverflow.png)](https://stackoverflow.com/users/1892523/link) [LinkDotNet](https://stackoverflow.com/users/1892523/link)
+ * [![LI](assets/LI-In-Bug.png)](https://stackoverflow.com/users/1892523/link) [Steven Giesel](https://stackoverflow.com/users/1892523/link)
 
-<!--
-**linkdotnet/linkdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkdotnet&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=linkdotnet&theme=dark">
+<a href="https://github.com/linkdotnet/EnumValueObject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=EnumValueObject&theme=dark"></a>
+<a href="https://github.com/linkdotnet/KanbanBoard"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=KanbanBoard&theme=dark"></a>
