@@ -4,13 +4,15 @@
 Hey lot, my name is Steven and I am a .NET developer based in Zurich.
 Welcome to my public page. I am most likely interested in new technologies.
 
-# Contact
-You can find me here:
- * [![SO](assets/logo-stackoverflow.png)](https://stackoverflow.com/users/1892523/link) [LinkDotNet](https://stackoverflow.com/users/1892523/link)
- * [![LI](assets/LI-In-Bug.png)](https://stackoverflow.com/users/1892523/link) [Steven Giesel](https://www.linkedin.com/in/steven-giesel/)
+# Social
+[![Linkedin Badge](https://img.shields.io/badge/Steven%20Giesel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-giesel/)
+[![Stackoverflow Badge](https://img.shields.io/badge/linkdotnet-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1892523/link)
+[![Github Bade](https://img.shields.io/badge/linkdotnet-100000?style=flate&logo=github&logoColor=white)](https://github.com/linkdotnet/)
+[![Blog Blade](https://img.shields.io/badge/linkdotnet-FFA500?style=flat&logo=rss&logoColor=white)](https://bloglinkdotnet.azurewebsites.net/)
 
 # Github
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkdotnet&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=linkdotnet&theme=dark">
+
 <a href="https://github.com/linkdotnet/EnumValueObject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=EnumValueObject&theme=dark"></a>
-<a href="https://github.com/linkdotnet/KanbanBoard"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=KanbanBoard&theme=dark"></a>
+
+<a href="https://github.com/linkdotnet/Blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=Blog&theme=dark"></a>
