@@ -11,7 +11,7 @@ Welcome to my public page. I am most likely interested in new technologies.
 [![Blog Blade](https://img.shields.io/badge/linkdotnet-FFA500?style=flat&logo=rss&logoColor=white)](https://bloglinkdotnet.azurewebsites.net/)
 
 # Github
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=linkdotnet&theme=dark">
+[![Alt](https://metrics.lecoq.io/linkdotnet?pagespeed=1&languages=1&followup=1&isocalendar=1)]
 
 <a href="https://github.com/linkdotnet/EnumValueObject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=EnumValueObject&theme=dark"></a>
 
