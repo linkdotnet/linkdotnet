@@ -44,7 +44,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_screenshot: no
           plugin_pagespeed_url: https://steven-giesel.com
           plugin_repositories: 100
           plugin_repositories_affiliations: owner,contributor
