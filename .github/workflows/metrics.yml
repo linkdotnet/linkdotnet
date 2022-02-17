@@ -39,7 +39,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://steven-giesel.com
           plugin_repositories: 100
-          plugin_repositories: yes
           plugin_repositories_affiliations: owner,contributor
           plugin_repositories_batch: 100
           plugin_repositories_featured: linkdotnet/blog
