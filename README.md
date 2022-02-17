@@ -14,7 +14,7 @@ I also have a blog [here](https://steven-giesel.com/) and if you are interested 
 ![](https://komarev.com/ghpvc/?username=linkdotnet)
 
 # Github
-![Github stats](https://metrics.lecoq.io/linkdotnet?pagespeed=1&languages=1&followup=1&isocalendar=1)
+![Metrics](/github-metrics.svg)
 
 <a href="https://github.com/linkdotnet/EnumValueObject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=EnumValueObject&theme=dark"></a>
 
