@@ -15,7 +15,3 @@ I also have a blog [here](https://steven-giesel.com/) and if you are interested 
 
 # Github
 ![Metrics](/github-metrics.svg)
-
-<a href="https://github.com/linkdotnet/EnumValueObject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=EnumValueObject&theme=dark"></a>
-
-<a href="https://github.com/linkdotnet/Blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkdotnet&repo=Blog&theme=dark"></a>
