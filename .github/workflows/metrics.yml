@@ -42,7 +42,7 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_affiliations: owner,contributor
           plugin_repositories_batch: 100
-          plugin_repositories_featured: linkdotnet/blog
+          plugin_repositories_featured: linkdotnet/blog,linkdotnet/StringOperations
           plugin_repositories_forks: yes
           repositories_affiliations: owner,contributor
           repositories_forks: yes
