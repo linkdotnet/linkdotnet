@@ -12,13 +12,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -44,5 +37,8 @@ jobs:
           plugin_repositories_batch: 100
           plugin_repositories_featured: linkdotnet/blog,bunit-dev/bunit,linkdotnet/tips-and-tricks
           plugin_repositories_forks: yes
+          plugin_rss: yes
+          plugin_rss_source: https://steven-giesel.com/feed.rss
+          plugin_rss_limit: 4
           repositories_affiliations: owner,contributor
           repositories_forks: yes
