@@ -35,7 +35,7 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_affiliations: owner,contributor
           plugin_repositories_batch: 100
-          plugin_repositories_featured: linkdotnet/blog,bunit-dev/bunit,linkdotnet/tips-and-tricks
+          plugin_repositories_featured: linkdotnet/blog,bunit-dev/bunit,linkdotnet/NCronJob
           plugin_repositories_forks: yes
           plugin_rss: yes
           plugin_rss_source: https://steven-giesel.com/feed.rss
