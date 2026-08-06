@@ -6,6 +6,8 @@ Welcome to my public page. I am most likely interested in new technologies. If y
 
 I also have a blog [here](https://steven-giesel.com/) and if you are interested in the source code of it, [here](https://github.com/linkdotnet/Blog) you go.
 
+If you want to work with me, check [bitspire.ch](https://bitspire.ch/en)
+
 # Social
 [![Linkedin Badge](https://img.shields.io/badge/Steven%20Giesel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-giesel/)
 [![Stackoverflow Badge](https://img.shields.io/badge/linkdotnet-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1892523/link)
