@@ -27,8 +27,7 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_lines_sections: history, repositories
+          plugin_lines: no
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://steven-giesel.com
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
